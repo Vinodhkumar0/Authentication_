@@ -1,0 +1,28 @@
+{
+  
+    "name": "suhseee",
+    "email": "sushs9@example.com",
+    "password": "password123",
+    "gender": "Male",
+    "isApproved": true,
+    "dateOfBirth": "1990-01-01",
+    "otp": "123456",
+    "otpGeneratedTime": "2024-05-30T08:00:00",
+    "empId": 89068,
+    "managerId": 0,
+    "role": "EMPLOYEE",
+    "storeDetails": {
+        "storeName": "Main Store",
+        "street": "123 Main Street",
+        "city": "Anytown",
+        "country": "USA",
+        "state": "NY",
+        "zipCode": "10001"
+    },
+    "employeesUnderStoreManager": [],
+    "challengeEmployeeDetail": [],
+    "carbonSaving": 1000,
+    "dollarSaving": 500,
+    "wasteSaving": 200,
+    "regDate": "2024-05-01"
+}
